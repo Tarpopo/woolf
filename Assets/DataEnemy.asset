@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f52175ea7de2195448b83542832d8015, type: 3}
+  m_Name: DataEnemy
+  m_EditorClassIdentifier: 
+  attackSize: {x: 0.5, y: 0.05}
+  whoisEnemy:
+    serializedVersion: 2
+    m_Bits: 512
+  clips:
+  - type: 0
+    _clip: {fileID: 7400000, guid: ba214477c3be0ff4aa2b6020217f2e44, type: 2}
+  - type: 5
+    _clip: {fileID: 7400000, guid: a313e63b58bbe824182fbd1c562997ae, type: 2}
+  - type: 4
+    _clip: {fileID: 7400000, guid: 31a714b34701eb04bb319a6bdc84bfb9, type: 2}
+  - type: 3
+    _clip: {fileID: 7400000, guid: 38cff02fe9992054e9e0885e8db223f4, type: 2}
+  - type: 7
+    _clip: {fileID: 7400000, guid: c8166ddd27d5b724392c6ad940473ab1, type: 2}
+  anim_controller: {fileID: 9100000, guid: d06edb34474e1494ca36f6f5594c8dbc, type: 2}
+  Health: 10
+  sizeCube: {x: 0.45, y: 0.1}
+  posCube: {x: 0.01, y: 0}

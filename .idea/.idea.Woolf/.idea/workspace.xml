@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d41216f1-1a5f-4474-a67c-4da31a724735" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E4CA6F5D-EF8D-4F67-8AA4-0DCE9C2C02D8/5d/480cee11/IPointerClickHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Timer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/17B72532-EE2C-4DA1-B6F6-32D3F1705FE0/a7/ddf5ef18/EditorSceneManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextCombo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.3.10f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/EventData/PointerEventData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraMove.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraFollow2D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraMoving.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Singleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PoolManager/IPoolable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PoolManager/ManagerPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Starter/Toolbox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PoolManager/Pool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Starter/ManagerBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Starter/Starter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PoolManager/PoolType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Starter/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SceneManager/Editor/SceneGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Starter/ManagerUpdate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05F2AC9C-8847-4269-9276-5A22EF6D94CA/fa/8c1a527d/UnityAction.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Starter/ManagerUpdateComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Starter/Interfaces/ITickLate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Starter/Interfaces/ITick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05F2AC9C-8847-4269-9276-5A22EF6D94CA/18/d65f4928/UnityEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Starter/Interfaces/IAwake.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Starter/Interfaces/ITickFixed.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FB3709D4-3DAE-4F5F-B978-5D5202B86B97/67/661c5cf5/Action.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/30C44715-2599-4106-AB1E-5D6BB9A98850/e8/57ab09a8/PhysicsScene2D.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/30C44715-2599-4106-AB1E-5D6BB9A98850/f6/d2584f34/Physics2D.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/HitScore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ColorDissolution.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.6.0/Runtime/PostProcessing/CinemachinePostProcessing.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AttackButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AnimationBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ColorChanger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Test.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/DataActor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/JumpBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ButtonBlock.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/AnimaTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ManagerUpdate.asset" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FightingCombo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shake.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Joystick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/CamTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PoliceDog.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E4CA6F5D-EF8D-4F67-8AA4-0DCE9C2C02D8/bd/12bafba6/IEventSystemHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Actor.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/ActorManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Inp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Character.cs" />
+        <option value="$PROJECT_DIR$/Assets/Op.cs" />
+        <option value="$PROJECT_DIR$/Assets/DataHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/EnemyCarl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Starter/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/SceneManager/Editor/SceneGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Starter/ManagerBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Starter/Test.cs" />
+        <option value="$PROJECT_DIR$/Assets/TestTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Starter/Interfaces/IDamage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Starter/DamageBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Starter/Hey.cs" />
+        <option value="$PROJECT_DIR$/Assets/Starter/NewBehaviourScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BehaviorPuf.cs" />
+        <option value="$PROJECT_DIR$/Assets/Oppa2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Oppa.cs" />
+        <option value="$PROJECT_DIR$/Assets/NumbManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/AnimaDataTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/AnimaTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Starter/ManagerUpdateComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Starter/ManagerUpdate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraMove.cs" />
+        <option value="$PROJECT_DIR$/Assets/Starter/Toolbox.cs" />
+        <option value="$PROJECT_DIR$/Assets/ButtonBlock.cs" />
+        <option value="$PROJECT_DIR$/Assets/Test.cs" />
+        <option value="$PROJECT_DIR$/Assets/NewSurfaceShader.shader" />
+        <option value="$PROJECT_DIR$/Assets/CamTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FightingCombo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shake.cs" />
+        <option value="$PROJECT_DIR$/Assets/PoolManager/IPoolable.cs" />
+        <option value="$PROJECT_DIR$/Assets/PoolManager/ManagerPoool.cs" />
+        <option value="$PROJECT_DIR$/Assets/PoolManager/PoolType.cs" />
+        <option value="$PROJECT_DIR$/Assets/PoolManager/ManagerPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/PoolManager/Pool.cs" />
+        <option value="$PROJECT_DIR$/Assets/AttackButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/JumpBehaviour1.cs" />
+        <option value="$PROJECT_DIR$/Assets/AnimationBehavior.cs" />
+        <option value="$PROJECT_DIR$/Assets/Enemy.cs" />
+        <option value="$PROJECT_DIR$/Assets/Timer.cs" />
+        <option value="$PROJECT_DIR$/Assets/DataActor.cs" />
+        <option value="$PROJECT_DIR$/Assets/JumpBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/ColorChanger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Actor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/PoliceDog.cs" />
+        <option value="$PROJECT_DIR$/Assets/Joystick.cs" />
+        <option value="$PROJECT_DIR$/Assets/ColorDissolution.cs" />
+        <option value="$PROJECT_DIR$/Assets/TextCombo.cs" />
+        <option value="$PROJECT_DIR$/Assets/HitScore.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cGZCkOLRYx71wzKzdpSHrS3mE4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d41216f1-1a5f-4474-a67c-4da31a724735" name="Default Changelist" comment="" />
+      <created>1590156787653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590156787653</updated>
+      <workItem from="1590156837377" duration="6099000" />
+      <workItem from="1590231402383" duration="5669000" />
+      <workItem from="1590248620129" duration="9889000" />
+      <workItem from="1590312179944" duration="5551000" />
+      <workItem from="1591677611280" duration="9212000" />
+      <workItem from="1591743913572" duration="1121000" />
+      <workItem from="1592049378797" duration="913000" />
+      <workItem from="1592107214510" duration="1555000" />
+      <workItem from="1592133472701" duration="3559000" />
+      <workItem from="1592187750043" duration="5053000" />
+      <workItem from="1592213024263" duration="973000" />
+      <workItem from="1592447324097" duration="4892000" />
+      <workItem from="1593102832494" duration="3981000" />
+      <workItem from="1593440071640" duration="9749000" />
+      <workItem from="1593961649209" duration="1296000" />
+      <workItem from="1594018734430" duration="9327000" />
+      <workItem from="1594207779734" duration="17011000" />
+      <workItem from="1594275661011" duration="6242000" />
+      <workItem from="1594296756956" duration="4844000" />
+      <workItem from="1594322511221" duration="2135000" />
+      <workItem from="1594363946218" duration="2535000" />
+      <workItem from="1594397715629" duration="3065000" />
+      <workItem from="1594480832639" duration="6119000" />
+      <workItem from="1594658590215" duration="3596000" />
+      <workItem from="1594713028148" duration="4888000" />
+      <workItem from="1594799452308" duration="12784000" />
+      <workItem from="1594887797461" duration="10933000" />
+      <workItem from="1595000412580" duration="9120000" />
+      <workItem from="1595080254370" duration="4964000" />
+      <workItem from="1595133281391" duration="25409000" />
+      <workItem from="1595435261981" duration="1573000" />
+      <workItem from="1595507239882" duration="1800000" />
+      <workItem from="1595585033441" duration="3372000" />
+      <workItem from="1595646652144" duration="1567000" />
+      <workItem from="1595677048181" duration="1585000" />
+      <workItem from="1595769168863" duration="597000" />
+      <workItem from="1595936684222" duration="570000" />
+      <workItem from="1595947455099" duration="1193000" />
+      <workItem from="1596041155285" duration="2689000" />
+      <workItem from="1596074339325" duration="1514000" />
+      <workItem from="1596096809739" duration="13096000" />
+      <workItem from="1596228128542" duration="4601000" />
+      <workItem from="1596297600936" duration="4464000" />
+      <workItem from="1596371830677" duration="3808000" />
+      <workItem from="1596474898962" duration="7096000" />
+      <workItem from="1596528959596" duration="2590000" />
+      <workItem from="1596535001627" duration="6540000" />
+      <workItem from="1596548496836" duration="4775000" />
+      <workItem from="1596594786908" duration="1057000" />
+      <workItem from="1596618284623" duration="1724000" />
+      <workItem from="1596641459566" duration="855000" />
+      <workItem from="1596732339557" duration="11178000" />
+      <workItem from="1596767981889" duration="21591000" />
+      <workItem from="1596854836750" duration="20872000" />
+      <workItem from="1596945823047" duration="14909000" />
+      <workItem from="1597026132305" duration="18939000" />
+      <workItem from="1597113242179" duration="14048000" />
+      <workItem from="1597141884319" duration="11818000" />
+      <workItem from="1597200605585" duration="1018000" />
+      <workItem from="1597203482885" duration="11714000" />
+      <workItem from="1597237343158" duration="4848000" />
+      <workItem from="1597286622451" duration="24235000" />
+      <workItem from="1597324379820" duration="5787000" />
+      <workItem from="1597373874324" duration="7477000" />
+      <workItem from="1597414767023" duration="3441000" />
+      <workItem from="1597475616727" duration="1810000" />
+      <workItem from="1597498386219" duration="3880000" />
+      <workItem from="1597551202539" duration="4667000" />
+      <workItem from="1597581961276" duration="3535000" />
+      <workItem from="1597633842476" duration="14662000" />
+      <workItem from="1597662900054" duration="3675000" />
+      <workItem from="1597720077290" duration="4838000" />
+      <workItem from="1597737292635" duration="1201000" />
+      <workItem from="1597803852501" duration="5681000" />
+      <workItem from="1597929519048" duration="4583000" />
+      <workItem from="1597979267819" duration="1042000" />
+      <workItem from="1597983143911" duration="5712000" />
+      <workItem from="1598017196952" duration="4543000" />
+      <workItem from="1598069152501" duration="4439000" />
+      <workItem from="1598107918369" duration="815000" />
+      <workItem from="1598167031777" duration="1788000" />
+      <workItem from="1598190802595" duration="5254000" />
+      <workItem from="1598228102930" duration="7300000" />
+      <workItem from="1598271535603" duration="3999000" />
+      <workItem from="1598317958183" duration="3463000" />
+      <workItem from="1598495667003" duration="6711000" />
+      <workItem from="1598537650072" duration="404000" />
+      <workItem from="1598665279585" duration="4284000" />
+      <workItem from="1599211628833" duration="2588000" />
+      <workItem from="1599226514987" duration="2981000" />
+      <workItem from="1599276000703" duration="3187000" />
+      <workItem from="1599364744634" duration="6588000" />
+      <workItem from="1599446233881" duration="16356000" />
+      <workItem from="1599533627923" duration="5055000" />
+      <workItem from="1618676023313" duration="2105000" />
+      <workItem from="1618717493053" duration="1080000" />
+      <workItem from="1618720397006" duration="3911000" />
+      <workItem from="1618752394016" duration="7832000" />
+      <workItem from="1618769332708" duration="2428000" />
+      <workItem from="1618834789530" duration="45000" />
+      <workItem from="1618834896623" duration="9530000" />
+      <workItem from="1618922036577" duration="14634000" />
+      <workItem from="1618966396906" duration="27807000" />
+      <workItem from="1619071397732" duration="6422000" />
+      <workItem from="1619078847771" duration="12708000" />
+      <workItem from="1619099913563" duration="1279000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="275" y="27" key="#Plugins" timestamp="1618834827755">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#Plugins/0.0.1366.738/-1280.-90.1280.994@0.0.1366.738" timestamp="1618834827755" />
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618760563135">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738/-1280.-90.1280.994@0.0.1366.738" timestamp="1618760563135" />
+    <state x="342" y="38" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1619073965169">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="342" y="38" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.738/-1280.-90.1280.994@0.0.1366.738" timestamp="1619073965169" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1618759817081">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738/-1280.-90.1280.994@0.0.1366.738" timestamp="1618759817081" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1619075861091">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/-1280.-90.1280.994@0.0.1366.738" timestamp="1619075861091" />
+  </component>
+</project>
