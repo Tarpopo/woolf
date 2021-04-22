@@ -1,6 +1,4 @@
-﻿
-using DefaultNamespace.Starter;
-using UnityEditor;
+﻿using UnityEditor;
 using UnityEditor.SceneManagement;
 using UnityEngine;
 using UnityEngine.SceneManagement;

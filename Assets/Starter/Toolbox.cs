@@ -24,7 +24,14 @@ public class Toolbox : Singleton<Toolbox>
          (add as IAwake).OnAwake();
       }
    }
-
+   public static void UpdateAllAwake()
+   {
+      foreach (var manager in Toolbox.Instance.data)
+      {
+         var obj = manager.Value as IAwake;
+         obj?.OnAwake();
+      }
+   }
    public static T Get<T>()
    {
       object resolve;

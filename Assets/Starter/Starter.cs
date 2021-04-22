@@ -10,6 +10,12 @@ public class Starter : MonoBehaviour
 
     private void Awake()
     {
+        if (Toolbox.Get<ManagerPool>() != null)
+        {
+            Toolbox.UpdateAllAwake();
+            return;
+        }
+        
         foreach (var managerBase in managers )
         {
             Toolbox.Add(managerBase); 

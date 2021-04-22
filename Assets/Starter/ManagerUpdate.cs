@@ -1,8 +1,7 @@
-﻿using System.Collections;
+﻿
 using System.Collections.Generic;
 using DefaultNamespace;
 using UnityEngine;
-using DefaultNamespace.Starter;
 [CreateAssetMenu(fileName = "ManagerUpdate", menuName = "Managers/ManagerUpdate")]
 public class ManagerUpdate : ManagerBase, IAwake
 {

@@ -31,9 +31,6 @@ public class Player : Actor,ITick
     [SerializeField] private List<Transform>  _freeAttackPlace;
     private List<Transform> _occupiedAttackPlace;
     
-    // [SerializeField] private float _jumpForce;
-    // private bool _isJump;
-    // private float _startJumpY;
     protected override void StartGame()
     {
         _occupiedAttackPlace=new List<Transform>(_freeAttackPlace.Count);
