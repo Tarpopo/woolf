@@ -12,57 +12,21 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E4CA6F5D-EF8D-4F67-8AA4-0DCE9C2C02D8/5d/480cee11/IPointerClickHandler.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Timer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/17B72532-EE2C-4DA1-B6F6-32D3F1705FE0/a7/ddf5ef18/EditorSceneManager.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/TextCombo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.3.10f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/EventData/PointerEventData.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Singleton.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ParticleManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/PoolManager/IPoolable.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/PoolManager/ManagerPool.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Starter/Toolbox.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/PoolManager/Pool.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Starter/ManagerBase.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Starter/Starter.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/PoolManager/PoolType.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SceneManager/Editor/SceneGenerator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Starter/ManagerUpdate.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05F2AC9C-8847-4269-9276-5A22EF6D94CA/fa/8c1a527d/UnityAction.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Starter/ManagerUpdateComponent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Starter/Interfaces/ITickLate.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Starter/Interfaces/ITick.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05F2AC9C-8847-4269-9276-5A22EF6D94CA/18/d65f4928/UnityEvent.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Starter/Interfaces/IAwake.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Starter/Interfaces/ITickFixed.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FB3709D4-3DAE-4F5F-B978-5D5202B86B97/67/661c5cf5/Action.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/30C44715-2599-4106-AB1E-5D6BB9A98850/e8/57ab09a8/PhysicsScene2D.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/30C44715-2599-4106-AB1E-5D6BB9A98850/f6/d2584f34/Physics2D.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/HitScore.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ColorDissolution.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/17B72532-EE2C-4DA1-B6F6-32D3F1705FE0/a7/ddf5ef18/EditorSceneManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.6.0/Runtime/PostProcessing/CinemachinePostProcessing.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/AttackButton.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/AnimationBehavior.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ColorChanger.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/DataActor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/JumpBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ButtonBlock.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/ManagerUpdate.asset" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/FightingCombo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Joystick.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/PoliceDog.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Actors/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.3.10f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/EventData/PointerEventData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SceneManager/Editor/SceneGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05F2AC9C-8847-4269-9276-5A22EF6D94CA/fa/8c1a527d/UnityAction.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05F2AC9C-8847-4269-9276-5A22EF6D94CA/18/d65f4928/UnityEvent.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FB3709D4-3DAE-4F5F-B978-5D5202B86B97/67/661c5cf5/Action.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E4CA6F5D-EF8D-4F67-8AA4-0DCE9C2C02D8/bd/12bafba6/IEventSystemHandler.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Actor.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Character.cs" />
-        <option value="$PROJECT_DIR$/Assets/Op.cs" />
-        <option value="$PROJECT_DIR$/Assets/DataHealth.cs" />
-        <option value="$PROJECT_DIR$/Assets/EnemyCarl.cs" />
-        <option value="$PROJECT_DIR$/Assets/Starter/GameManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Starter/ManagerBase.cs" />
         <option value="$PROJECT_DIR$/Assets/Starter/Test.cs" />
         <option value="$PROJECT_DIR$/Assets/TestTest.cs" />
@@ -89,26 +53,31 @@
         <option value="$PROJECT_DIR$/Assets/PoolManager/PoolType.cs" />
         <option value="$PROJECT_DIR$/Assets/PoolManager/ManagerPool.cs" />
         <option value="$PROJECT_DIR$/Assets/PoolManager/Pool.cs" />
-        <option value="$PROJECT_DIR$/Assets/AttackButton.cs" />
         <option value="$PROJECT_DIR$/Assets/JumpBehaviour1.cs" />
         <option value="$PROJECT_DIR$/Assets/AnimationBehavior.cs" />
         <option value="$PROJECT_DIR$/Assets/Enemy.cs" />
         <option value="$PROJECT_DIR$/Assets/Timer.cs" />
-        <option value="$PROJECT_DIR$/Assets/DataActor.cs" />
-        <option value="$PROJECT_DIR$/Assets/JumpBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/ColorChanger.cs" />
         <option value="$PROJECT_DIR$/Assets/Actor.cs" />
         <option value="$PROJECT_DIR$/Assets/PoliceDog.cs" />
         <option value="$PROJECT_DIR$/Assets/Joystick.cs" />
         <option value="$PROJECT_DIR$/Assets/ColorDissolution.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
         <option value="$PROJECT_DIR$/Assets/Starter/ManagerUpdate.cs" />
         <option value="$PROJECT_DIR$/Assets/SceneManager/Editor/SceneGenerator.cs" />
         <option value="$PROJECT_DIR$/Assets/Starter/Starter.cs" />
         <option value="$PROJECT_DIR$/Assets/Starter/Toolbox.cs" />
         <option value="$PROJECT_DIR$/Assets/ParticleManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/TextCombo.cs" />
         <option value="$PROJECT_DIR$/Assets/HitScore.cs" />
+        <option value="$PROJECT_DIR$/Assets/Extentions.cs" />
+        <option value="$PROJECT_DIR$/Assets/TextCombo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Extension.cs" />
+        <option value="$PROJECT_DIR$/Assets/JumpBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/AttackButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/CustomButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/DataActor.cs" />
+        <option value="$PROJECT_DIR$/Assets/FightingCombo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Actors/Player.cs" />
       </list>
     </option>
   </component>
@@ -267,6 +236,9 @@
       <workItem from="1619078847771" duration="12708000" />
       <workItem from="1619099913563" duration="1279000" />
       <workItem from="1619114168636" duration="6531000" />
+      <workItem from="1619144880668" duration="2313000" />
+      <workItem from="1619151786992" duration="1228000" />
+      <workItem from="1619197094606" duration="8928000" />
     </task>
     <servers />
   </component>
@@ -280,7 +252,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
