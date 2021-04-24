@@ -7,6 +7,7 @@ public class PoliceDog : Actor
    [SerializeField] private float _followDistance;
    [SerializeField] private float _attackDistance;
    [SerializeField] private float _AttackColdown;
+   [SerializeField] private ScoreCounter _counter;
    
    //private Timer _timer;
    private bool _isHaveAttackPlace;
@@ -33,7 +34,11 @@ public class PoliceDog : Actor
          if (_isHaveAttackPlace == false)
          {
             _attackPlace = _player.GetAttackPlace();
-            if (_attackPlace) _isHaveAttackPlace = true;
+            if (_attackPlace)
+            {
+               _isHaveAttackPlace = true;
+               //print("get Place"+_attackPlace.position);
+            }
             else
             {
                _attackPlace = _playerTransform;
@@ -58,6 +63,14 @@ public class PoliceDog : Actor
    private void RotateToPlayer()
    {
       _transform.localScale = new Vector3(Mathf.Sign(_playerTransform.position.x-_transform.position.x), 1, 1);
+   }
+
+   protected override void Death()
+   {
+      _counter.AddCount(5,_transform.position);
+      _player.FreeAttackPlace(transform);
+      Toolbox.Get<EndLevelChecker>().UpdateKillCount();
+      base.Death();
    }
 
    private void OnDrawGizmosSelected()

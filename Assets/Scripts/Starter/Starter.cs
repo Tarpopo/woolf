@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Starter : MonoBehaviour
 {
@@ -10,7 +11,7 @@ public class Starter : MonoBehaviour
 
     private void Awake()
     {
-        if (Toolbox.Get<ManagerPool>() != null)
+        if (Toolbox.Get<ManagerUpdate>() != null)
         {
             Toolbox.UpdateAllAwake();
             return;
@@ -20,5 +21,7 @@ public class Starter : MonoBehaviour
         {
             Toolbox.Add(managerBase); 
         }
+        SceneManager.sceneLoaded += Toolbox.Instance.SceneChanged;
+        SceneManager.sceneUnloaded += Toolbox.Instance.ClearScene;
     }
 }

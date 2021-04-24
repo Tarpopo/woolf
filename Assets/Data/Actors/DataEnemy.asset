@@ -31,3 +31,12 @@ MonoBehaviour:
   Health: 10
   sizeCube: {x: 0.45, y: 0.1}
   posCube: {x: 0.01, y: 0}
+  TakeDamage:
+    audioClip: {fileID: 8300000, guid: a8c2df2c923455349b68452620d3fc4a, type: 3}
+    volumeSound: 0.15
+  Hit:
+    audioClip: {fileID: 0}
+    volumeSound: 0.45
+  Step:
+    audioClip: {fileID: 8300000, guid: 81526e10fe6293c44a999eaa767e9900, type: 3}
+    volumeSound: 0.15

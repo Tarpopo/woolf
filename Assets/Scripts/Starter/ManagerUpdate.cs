@@ -8,7 +8,6 @@ public class ManagerUpdate : ManagerBase, IAwake
     private List<ITick> ticks = new List<ITick>();
     private List<ITickFixed> ticksFixes = new List<ITickFixed>();
     private List<ITickLate> ticksLate = new List<ITickLate>();
-    public int i = 0;
     public static void AddTo(object updateble)
     {
         var mngUpdate = Toolbox.Get<ManagerUpdate>();
@@ -59,9 +58,14 @@ public class ManagerUpdate : ManagerBase, IAwake
             ticksLate[i].TickLate();
         }
     }
+    public override void ClearScene()
+    {
+        ticks.Clear();
+        ticksFixes.Clear();
+        ticksLate.Clear();
+    }
     public void OnAwake()
     {
-        i ++;
         GameObject.Find("[Setup]").AddComponent<ManagerUpdateComponent>().Setup(this);	
     }
 

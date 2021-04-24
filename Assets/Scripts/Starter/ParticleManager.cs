@@ -19,7 +19,7 @@ public class ParticleManager : ManagerBase,ITick,IAwake
     
     public void OnAwake()
     {
-        //if (SceneManager.GetActiveScene() == SceneManager.GetSceneByBuildIndex(0)) return;
+        if (Toolbox.Get<SceneController>().GetIsMainScene()) return;
         _particleManager = Toolbox.Get<ParticleManager>();
         ManagerUpdate.AddTo(this);
         for (int i=0; i<_particleCount; i++)
@@ -34,11 +34,11 @@ public class ParticleManager : ManagerBase,ITick,IAwake
         }
     }
 
-    // public override void ClearScene()
-    // {
-    //     _freeParticles.Clear();
-    //     _occupiedParticles.Clear();
-    // }
+    public override void ClearScene()
+    {
+        _freeParticles.Clear();
+        _occupiedParticles.Clear();
+    }
 
     // public void OnAwake() 
     // {

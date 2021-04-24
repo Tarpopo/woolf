@@ -4,11 +4,20 @@ using System.Collections.Generic;
 using System.ComponentModel.Design.Serialization;
 using DefaultNamespace;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Toolbox : Singleton<Toolbox>
 {
    private Dictionary<Type,object>data =new Dictionary<Type, object>();
 
+   public void SceneChanged(Scene scene, LoadSceneMode loadSceneMode)
+   {
+      foreach (var obj in data)
+      {
+         var changed = obj.Value as ISceneChanged;
+         changed?.OnChangeScene();
+      }
+   }
    public static void Add(object obj)
    {
       var add = obj;
@@ -38,11 +47,14 @@ public class Toolbox : Singleton<Toolbox>
       Instance.data.TryGetValue(typeof(T), out resolve);
       return (T) resolve;
    }
-
-   public void ClearScene()
+   
+   public void ClearScene(Scene scene)
    {
-      
+      foreach (var obj in data)
+      {
+         var perem = obj.Value as ManagerBase;
+         perem?.ClearScene();
+      }
    }
-
 
 }

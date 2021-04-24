@@ -15,11 +15,33 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/30C44715-2599-4106-AB1E-5D6BB9A98850/e8/57ab09a8/PhysicsScene2D.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/30C44715-2599-4106-AB1E-5D6BB9A98850/f6/d2584f34/Physics2D.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/17B72532-EE2C-4DA1-B6F6-32D3F1705FE0/a7/ddf5ef18/EditorSceneManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Starter/SceneController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.6.0/Runtime/PostProcessing/CinemachinePostProcessing.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AnimationBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ui/HitScore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Starter/Interfaces/ISceneChanged.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Actors/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ui/ColorDissolution.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/JumpBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.3.10f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/EventSystem/EventData/PointerEventData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Starter/PoolManager/Pool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Starter/Interfaces/IStart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Starter/ParticleManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Starter/PoolManager/ManagerPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Starter/Starter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Starter/Toolbox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EndLevelChecker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Starter/ManagerUpdate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Actors/PoliceDog.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScoreBoard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Starter/ManagerUpdateComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Actors/Actor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Starter/ManagerBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Actors/DataActor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SceneManager/Editor/SceneGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FightingCombo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05F2AC9C-8847-4269-9276-5A22EF6D94CA/fa/8c1a527d/UnityAction.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Ui/ScoreCounter.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/05F2AC9C-8847-4269-9276-5A22EF6D94CA/18/d65f4928/UnityEvent.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FB3709D4-3DAE-4F5F-B978-5D5202B86B97/67/661c5cf5/Action.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E4CA6F5D-EF8D-4F67-8AA4-0DCE9C2C02D8/bd/12bafba6/IEventSystemHandler.cs" root0="SKIP_HIGHLIGHTING" />
@@ -27,26 +49,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Starter/ManagerBase.cs" />
-        <option value="$PROJECT_DIR$/Assets/Starter/Test.cs" />
-        <option value="$PROJECT_DIR$/Assets/TestTest.cs" />
-        <option value="$PROJECT_DIR$/Assets/Starter/Interfaces/IDamage.cs" />
-        <option value="$PROJECT_DIR$/Assets/Starter/DamageBehavior.cs" />
-        <option value="$PROJECT_DIR$/Assets/Starter/Hey.cs" />
-        <option value="$PROJECT_DIR$/Assets/Starter/NewBehaviourScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/BehaviorPuf.cs" />
-        <option value="$PROJECT_DIR$/Assets/Oppa2.cs" />
-        <option value="$PROJECT_DIR$/Assets/Oppa.cs" />
-        <option value="$PROJECT_DIR$/Assets/NumbManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/AnimaDataTest.cs" />
-        <option value="$PROJECT_DIR$/Assets/AnimaTest.cs" />
-        <option value="$PROJECT_DIR$/Assets/Starter/ManagerUpdateComponent.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CameraMove.cs" />
-        <option value="$PROJECT_DIR$/Assets/ButtonBlock.cs" />
-        <option value="$PROJECT_DIR$/Assets/Test.cs" />
         <option value="$PROJECT_DIR$/Assets/NewSurfaceShader.shader" />
         <option value="$PROJECT_DIR$/Assets/CamTest.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/FightingCombo.cs" />
         <option value="$PROJECT_DIR$/Assets/Shake.cs" />
         <option value="$PROJECT_DIR$/Assets/PoolManager/IPoolable.cs" />
         <option value="$PROJECT_DIR$/Assets/PoolManager/ManagerPoool.cs" />
@@ -63,7 +67,6 @@
         <option value="$PROJECT_DIR$/Assets/Joystick.cs" />
         <option value="$PROJECT_DIR$/Assets/ColorDissolution.cs" />
         <option value="$PROJECT_DIR$/Assets/Starter/ManagerUpdate.cs" />
-        <option value="$PROJECT_DIR$/Assets/SceneManager/Editor/SceneGenerator.cs" />
         <option value="$PROJECT_DIR$/Assets/Starter/Starter.cs" />
         <option value="$PROJECT_DIR$/Assets/Starter/Toolbox.cs" />
         <option value="$PROJECT_DIR$/Assets/ParticleManager.cs" />
@@ -77,6 +80,25 @@
         <option value="$PROJECT_DIR$/Assets/DataActor.cs" />
         <option value="$PROJECT_DIR$/Assets/FightingCombo.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/SceneManager/Editor/SceneGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FightingCombo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Starter/PoolManager/ManagerPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Starter/Interfaces/IStart.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Starter/ManagerBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Starter/PoolManager/Pool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Starter/Starter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Starter/Interfaces/ISceneChanged.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Starter/Toolbox.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Starter/ManagerUpdate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ui/ColorDissolution.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScoreBoard.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ui/ScoreCounter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ui/HitScore.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Actors/DataActor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Actors/Actor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Actors/PoliceDog.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Starter/ParticleManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EndLevelChecker.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Actors/Player.cs" />
       </list>
     </option>
@@ -239,6 +261,8 @@
       <workItem from="1619144880668" duration="2313000" />
       <workItem from="1619151786992" duration="1228000" />
       <workItem from="1619197094606" duration="8928000" />
+      <workItem from="1619250865099" duration="24185000" />
+      <workItem from="1619286517090" duration="629000" />
     </task>
     <servers />
   </component>
@@ -269,6 +293,70 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738/-1280.-90.1280.994@0.0.1366.738" timestamp="1618760563135" />
+    <state width="1323" height="103" key="GridCell.Tab.0.bottom" timestamp="1619282902824">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="103" key="GridCell.Tab.0.bottom/0.0.1366.738/-1280.-90.1280.994@0.0.1366.738" timestamp="1619282902824" />
+    <state width="1323" height="103" key="GridCell.Tab.0.center" timestamp="1619282902824">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="103" key="GridCell.Tab.0.center/0.0.1366.738/-1280.-90.1280.994@0.0.1366.738" timestamp="1619282902824" />
+    <state width="1323" height="103" key="GridCell.Tab.0.left" timestamp="1619282902824">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="103" key="GridCell.Tab.0.left/0.0.1366.738/-1280.-90.1280.994@0.0.1366.738" timestamp="1619282902824" />
+    <state width="1323" height="103" key="GridCell.Tab.0.right" timestamp="1619282902824">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="103" key="GridCell.Tab.0.right/0.0.1366.738/-1280.-90.1280.994@0.0.1366.738" timestamp="1619282902824" />
+    <state width="1323" height="103" key="GridCell.Tab.1.bottom" timestamp="1619282902825">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="103" key="GridCell.Tab.1.bottom/0.0.1366.738/-1280.-90.1280.994@0.0.1366.738" timestamp="1619282902825" />
+    <state width="1323" height="103" key="GridCell.Tab.1.center" timestamp="1619282902825">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="103" key="GridCell.Tab.1.center/0.0.1366.738/-1280.-90.1280.994@0.0.1366.738" timestamp="1619282902825" />
+    <state width="1323" height="103" key="GridCell.Tab.1.left" timestamp="1619282902824">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="103" key="GridCell.Tab.1.left/0.0.1366.738/-1280.-90.1280.994@0.0.1366.738" timestamp="1619282902824" />
+    <state width="1323" height="103" key="GridCell.Tab.1.right" timestamp="1619282902825">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="103" key="GridCell.Tab.1.right/0.0.1366.738/-1280.-90.1280.994@0.0.1366.738" timestamp="1619282902825" />
+    <state width="1323" height="103" key="GridCell.Tab.2.bottom" timestamp="1619282902825">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="103" key="GridCell.Tab.2.bottom/0.0.1366.738/-1280.-90.1280.994@0.0.1366.738" timestamp="1619282902825" />
+    <state width="1323" height="103" key="GridCell.Tab.2.center" timestamp="1619282902825">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="103" key="GridCell.Tab.2.center/0.0.1366.738/-1280.-90.1280.994@0.0.1366.738" timestamp="1619282902825" />
+    <state width="1323" height="103" key="GridCell.Tab.2.left" timestamp="1619282902825">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="103" key="GridCell.Tab.2.left/0.0.1366.738/-1280.-90.1280.994@0.0.1366.738" timestamp="1619282902825" />
+    <state width="1323" height="103" key="GridCell.Tab.2.right" timestamp="1619282902825">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="103" key="GridCell.Tab.2.right/0.0.1366.738/-1280.-90.1280.994@0.0.1366.738" timestamp="1619282902825" />
+    <state width="1323" height="103" key="GridCell.Tab.3.bottom" timestamp="1619282902826">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="103" key="GridCell.Tab.3.bottom/0.0.1366.738/-1280.-90.1280.994@0.0.1366.738" timestamp="1619282902826" />
+    <state width="1323" height="103" key="GridCell.Tab.3.center" timestamp="1619282902825">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="103" key="GridCell.Tab.3.center/0.0.1366.738/-1280.-90.1280.994@0.0.1366.738" timestamp="1619282902825" />
+    <state width="1323" height="103" key="GridCell.Tab.3.left" timestamp="1619282902825">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="103" key="GridCell.Tab.3.left/0.0.1366.738/-1280.-90.1280.994@0.0.1366.738" timestamp="1619282902825" />
+    <state width="1323" height="103" key="GridCell.Tab.3.right" timestamp="1619282902825">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="103" key="GridCell.Tab.3.right/0.0.1366.738/-1280.-90.1280.994@0.0.1366.738" timestamp="1619282902825" />
     <state x="342" y="38" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1619073965169">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

@@ -14,6 +14,7 @@ public class Actor:MonoBehaviour
     private AnimationsType animations;
     private int _currentHealth;
     protected Collider2D[] enemy;
+    private AudioSource _audioSource;
     
     public  virtual void AttackEnemy(int damage=1)
     {
@@ -30,9 +31,10 @@ public class Actor:MonoBehaviour
            
         }
     }
-
+    
     private void Start()
     {
+        _audioSource = GetComponent<AudioSource>();
         _currentHealth = Data.Health;
         _rigidBody = GetComponent<Rigidbody2D>();
         ManagerUpdate.AddTo(this);  
@@ -72,8 +74,14 @@ public class Actor:MonoBehaviour
         _takeDamage = true;
         AnimaBeh.PlayAnim(AnimationsType.takeDamage);
         _currentHealth -= damage;
+        _audioSource.PlayOneShot(Data.TakeDamage);
         if(_currentHealth<=0) Death();
         time = AnimaBeh.clips[(int) AnimationsType.takeDamage]._clip.length;
+    }
+
+    public void DoStepSound()
+    {
+        _audioSource.PlayOneShot(Data.Step);
     }
 
     public void EndTakeDamage()

@@ -20,12 +20,16 @@
             <e p="PoliceDog.cs" t="Include" />
           </e>
           <e p="AnimationBehavior.cs" t="Include" />
+          <e p="EndLevelChecker.cs" t="Include" />
           <e p="Extension.cs" t="Include" />
           <e p="FightingCombo.cs" t="Include" />
           <e p="JumpBehaviour.cs" t="Include" />
+          <e p="ScoreBoard.cs" t="Include" />
           <e p="Starter" t="Include">
             <e p="Interfaces" t="Include">
               <e p="IAwake.cs" t="Include" />
+              <e p="ISceneChanged.cs" t="Include" />
+              <e p="IStart.cs" t="Include" />
               <e p="ITick.cs" t="Include" />
               <e p="ITickFixed.cs" t="Include" />
               <e p="ITickLate.cs" t="Include" />
@@ -40,6 +44,7 @@
               <e p="Pool.cs" t="Include" />
               <e p="PoolType.cs" t="Include" />
             </e>
+            <e p="SceneController.cs" t="Include" />
             <e p="Singleton.cs" t="Include" />
             <e p="Starter.cs" t="Include" />
             <e p="Toolbox.cs" t="Include" />
@@ -51,6 +56,7 @@
             <e p="CustomButton.cs" t="Include" />
             <e p="HitScore.cs" t="Include" />
             <e p="Joystick.cs" t="Include" />
+            <e p="ScoreCounter.cs" t="Include" />
             <e p="TextCombo.cs" t="Include" />
           </e>
         </e>

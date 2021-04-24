@@ -41,6 +41,7 @@ public class ColorDissolution<T> :ITick where T : Graphic
          _component.color=Color.white;
          ManagerUpdate.AddTo(this);
       }
+      _component.color=Color.white;
       _currentTime = time;
    }
    

@@ -1,13 +1,7 @@
-﻿using System;
-using System.Collections;
+﻿
 using System.Collections.Generic;
-using System.Runtime.Remoting.Messaging;
 using DefaultNamespace;
-using TMPro;
-using Unity.Collections.LowLevel.Unsafe;
-using UnityEditor;
 using UnityEngine;
-using UnityEngine.Rendering;
 
 public class Player : Actor,ITick
 {
@@ -50,10 +44,6 @@ public class Player : Actor,ITick
         if (_jumpBehaviour.JumpState) return;
         if (IsBlock()) return;
         if (Timer()) return;
-        // if (Input.GetMouseButtonDown(1))
-        // {
-        //     if(!_takeDamage) AttackEnemy();
-        // }
         Walk();
         Idle();
     }
@@ -153,7 +143,7 @@ public class Player : Actor,ITick
             {
                 if (enemy[i])
                 {
-                    _HitScore.UpdateHitCount();
+                    _HitScore.UpdateHitCount(enemy[i].transform.position);
                     enemy[i].GetComponent<Actor>().TakeDamage(damage);
                 }
             }

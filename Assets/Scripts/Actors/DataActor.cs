@@ -9,7 +9,6 @@ public class DataActor : ScriptableObject
 {
     
     [Header("Attack Zone")]
-    //public Vector3 attackPos;
     public Vector2 attackSize;
     public LayerMask whoisEnemy;
     
@@ -19,17 +18,16 @@ public class DataActor : ScriptableObject
     
     [Header("Health")]
     public int Health;
-    //public int curr_health;
-    
+
     [Header("Air Zone")]
     public Vector2 sizeCube;
     public Vector2 posCube;
 
-    // private void OnDisable()
-    // {
-    //     if (attackPos.x < 0) attackPos.x *= -1;
-    //     curr_health = _health;
-    // }
+    [Header("Sounds")] 
+    public SimpleSound TakeDamage;
+    public SimpleSound Hit;
+    public SimpleSound Step;
+   
 }
 
 [System.Serializable]

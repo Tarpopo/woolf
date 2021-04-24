@@ -4,5 +4,5 @@ using UnityEngine;
 
 public  abstract class ManagerBase : ScriptableObject
 {
-    
+    public virtual void ClearScene() { }
 }
